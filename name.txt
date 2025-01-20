@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-hello all this neelima
-iam super excited to learn git comands.
-=======
+
 hello this is neelima
 <br>
 i am super excited to learn git commands
->>>>>>> 4e832d556d6ae934d0e31b10ddaf20017326b77f
+
